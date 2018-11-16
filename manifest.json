@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "keeweb-theme-base16-material",
+  "description": "KeeWeb themes based on Base16 material",
+  "author": {
+    "name": "Mauro Locatelli",
+    "email": "crivotz@gmail.com",
+    "url": "https://github.com/crivotz/"
+  },
+  "resources": {
+    "css": "ZUgMai7rav9DjuD4UD57MF0CmPStJqYlNY/eQZcKMPIsIUW7XSSXOXkiS4KBb0cki/2odJieg/1RhmCikkIEmkA5tjbSbHrHdDkRm12lQHIqQk+S5Es0Adjb5fOCM/gk9KVFpL4wXs28tKInqBzoYshmi+XP/Og/LCtSF+QcfUDKsU4FXZTkMDNYKMuGE60+a3uZ+tD3HjGK6xjdb/7RuRWUcoArBb99fysUY+Bz8AWOFVhJ+NkttJ6aR+xofsFHfVqAuq0BaBXWExdBgr9OgVh7lNkhXfzCFPO6MAjgy2MzJOYJSQxws39opwFzsbZviFhM7ZqH4xEhWF8YNhIX/w=="
+  },
+  "licence": "",
+  "url": "https://github.com/crivotz/keeweb-base16-material",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqAcbn/h64uZk1uPeiwfuk0qTggK7wXAdPjF8ngYC9B/NYwyyjNMXHb+74tEP3E+7bnjndAHpKz2jv4llGn4E4c5kDrIM1fteOnhnkvG6fuHC/ECSB7QJAl016CEhLmS/jMYxsThxDArBvNZYdBasFwSQNRdV4oVzTuVvu2VySlPmY0tvgfrETjbiBjBziyP64e5lfE/dERn3JgGNFxLobv7VYEhcmsR1lFdEjysLIZ6rSkRBklLO+5CP9Er3tUVca0NUvJzmbgoSZ5cSjEOGVyltTAZtvtfMeawuLy3cAAtSf9Ra0in7BMjRQC9q+i+20h4lNfHMypMHsgHqx6sT2wIDAQAB",
+  "license": "MIT",
+  "theme": {
+    "name": "base16-material",
+    "title": "Base16 material"
+  }
+}
